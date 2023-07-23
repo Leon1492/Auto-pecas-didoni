@@ -1,0 +1,83 @@
+body{
+    font-family: arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+h1{
+    margin: 0;
+}
+
+nav{
+    margin-top: 20px;
+}
+
+ul{
+    list-style: none;
+    padding: 0;
+}
+li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+a{
+    color: #fff;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+.destaque{
+    text-align: center;
+    padding: 40px 0;
+    background-color: #f0f0f0;
+}
+
+.destaque h2 {
+    margin: 0;
+    margin-bottom: 20px;
+}
+
+.destaque-item {
+    margin-bottom: 40px;
+}
+
+.destaque-item img {
+    max-width: 200px;
+}
+
+.mais-populares{
+    text-align: center;
+    padding: 40px 0;
+    background-color: #f9f9f9;
+}
+
+.mais-populares h2{
+    margin: 0;
+    margin-bottom: 20px;
+}
+
+.popular-item {
+    margin-bottom: 40px;
+}
+
+.popular-item img{
+    max-width: 200px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
