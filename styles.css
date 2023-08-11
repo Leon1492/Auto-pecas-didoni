@@ -50,6 +50,7 @@ a:hover{
 
 .destaque-item {
     margin-bottom: 40px;
+    font-size: 20px;
 }
 
 .destaque-item img {
@@ -69,6 +70,7 @@ a:hover{
 
 .popular-item {
     margin-bottom: 40px;
+    font-size: 20px;
 }
 
 .popular-item img{
